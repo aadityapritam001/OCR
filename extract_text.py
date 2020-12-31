@@ -1,6 +1,6 @@
 from pytesseract import Output
 import csv
-from demo import *
+from preprocessing import *
 
 # text=pytesseract.image_to_string(main())
 custom_config = r'-l eng+hin --psm 4'
