@@ -91,5 +91,5 @@ def main():
     # cv2.waitKey(0)
     # Destroying present windows on screen
     # cv2.destroyAllWindows()
-    cv2.imwrite('./3rd.jpg',img)
+    cv2.imwrite('./Preprocessed_img.jpg',img)
     return img
