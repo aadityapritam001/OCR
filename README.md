@@ -6,10 +6,13 @@ This python file process and clean the image by doing some editing to make more 
 
 # extract_text.py  
 This is the main python file , to Run/Execute this file use the following command:
-                '''step:1) Enter the command : "python extract_text.py"
-                  step:2) After execution it will ask for the image path : e.g- Enter the Image path:   sbi-1.jpg
-                  step:3) It will print the result on console as well it will save a txt file "Extracted_data.txt" in same directory 
-                '''
+                
+               
+               '*step:1) Enter the command : "python extract_text.py"
+                *step:2) After execution it will ask for the image path : e.g- Enter the Image path:   sbi-1.jpg
+                *step:3) It will print the result on console as well it will save a txt file "Extracted_data.txt" in same directory 
+               
+               
                 In this way Using these simple steps , we can extract the information from image(.jpg, .jpeg, .png , etc.)
                 
                 A file will also created with the name "Bounding_box.jpg" in which we can see how it recognises text on that image.
