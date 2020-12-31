@@ -24,7 +24,8 @@ there are various OCRs like EAST, easyocr, Google ocr api, but the main reason b
   
 Other Library use: there are also more python library used in this project , all mentioned in "requirements.txt" . So it is important to have these library installed before using or create virtual environment and install all these library before execution.  
 
-
+# Yet to add
+ There are some more features which is yet to add like , extraction from pdf , we can simply import pdf2Img to convert into image file if the file is pdf , Or we can also add according to our requirents for different types of file format 
 
 # ------- Output ------
 Output folder : Extracted_data.txt
